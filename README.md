@@ -11,18 +11,8 @@ Hi! I’m **Kshitij Dhake**, a **third-year Information Technology student at PI
 
 ---
 
-### 🛠️ Tech Stack:  
-- **💻 Programming:** Python  | JavaScript  | C++  | SQL   
-- **🌐 Web Development:** React.js  | Node.js  | Express.js  | Tailwind CSS  
-- **📊 Database & Backend:** MongoDB  | MySQL  | PostgreSQL  | Firebase   
-- **🤖 Machine Learning:** Scikit-learn  | TensorFlow  | SVM   
-- **🛠️ Tools & Platforms:** Docker  | GitHub  | Postman  | LaTeX   
-
----
-
 ### 📈 GitHub Stats:  
 ![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksdhake28&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksdhake28&layout=compact&theme=radical)  
 
 ---
 

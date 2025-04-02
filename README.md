@@ -1,5 +1,4 @@
 ## Hi there 👋
----
 
 ### 🚀 Kshitij Dhake | Full Stack Developer & Tech Enthusiast  
 
@@ -22,8 +21,8 @@ Hi! I’m **Kshitij Dhake**, a **third-year Information Technology student at PI
 ---
 
 ### 📈 GitHub Stats:  
-![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kshitij-Dhake&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitij-Dhake&layout=compact&theme=radical)  
+![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksdhake28&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksdhake28&layout=compact&theme=radical)  
 
 ---
 
